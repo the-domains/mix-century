@@ -1,0 +1,14 @@
+layout_spectrum: 0.7223667132202536
+typography_spectrum: 0.518580716336146
+color:
+  brandStrength: 0.014872562605887651
+  lightness: 0.10563340387307107
+  saturation: 0.3568245719652623
+  rhythmicContrast: 0.340826784260571
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Mix Century
