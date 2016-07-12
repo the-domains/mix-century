@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Mix Century]]></title>
         <description><![CDATA[Mix Century]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mix-century/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 17:05:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jul 2016 10:24:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mix-century/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Histography - Timeline of History]]></title>
+            <description><![CDATA[<article><h1>Histography - Timeline of History</h1><p>Histography is an interactive timeline that spans across 14 billion years of history, from the Big Bang to 2015</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce4338026acdb13d78243176b02f245a37a7ac88.jpg"></article>]]></description>
+            <link>http://histography.io/</link>
+            <guid isPermaLink="false">1c3a25d7-fe33-4215-89c2-311741a2a957</guid>
+            <pubDate>Tue, 12 Jul 2016 10:24:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Impossible Project's first instant camera has an app with full manual controls]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43cc98ca-d8e8-49e2-a170-7f19d6971332.jpg">]]></description>
